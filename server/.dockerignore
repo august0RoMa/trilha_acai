@@ -1,0 +1,10 @@
+node_modules
+data
+uploads
+.env
+.env.example
+*.md
+test
+vitest.config.js
+Dockerfile
+.dockerignore
