@@ -67,8 +67,8 @@ levar de alguns segundos a um ou dois minutos.
 ### 2. Clonar o repositório
 
 ```bash
-git clone https://github.com/JamesCookDev/trilha-acai.git
-cd trilha-acai
+git clone https://github.com/august0RoMa/trilha_acai.git
+cd trilha-acai 
 ```
 
 ### 3. Subir o sistema completo
